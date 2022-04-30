@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/<HTML>-<5>-<red>
 <!--
 **realCCC/realCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
