@@ -1,19 +1,40 @@
-### Hi there 👋
+## 깃 튜토리얼
+
+```c
+#include <stdio.g>
+
+int main(void){
+  pinrtf("Hello World");
+  return 0;
+  }
+```
+
+링크는 다음과 같이 작성할 수 있습니다.
+
+[블로그 주소] (https://real-ccc.tistory.com/)
 
 
-https://img.shields.io/badge/<HTML>-<5>-<red>
-<!--
-**realCCC/realCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+순서 없는 목록은 다음과 같이 작성할 수 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 깃 튜토리얼
+  * 깃 Clone
+  * 깃 Pull
+  * 깃 Commit
+    * 깃 Commit 1)
+    * 깃 Commit 2)
+    
+인용 구문은 다음과 같이 작성할 수 있습니다.
 
+
+> '공부합시다'-전제인-
+
+테이블은 다음과 같이 작성할 수 있습니다.
+이름|영어|정보|수학
+---|---|---|---|
+전제인|98점|98점|100점|
+홍길동|94점|95점|86점|
+
+강조는 다음과 같이 할 수 있습니다
+**치킨**은 너무 맛있는데 살이 ~~찌네요.~~
+    
